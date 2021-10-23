@@ -1,0 +1,26 @@
+<annotation>
+	<folder>umer_</folder>
+	<filename>help.083ad8f1-2917-11ec-963a-dc1ba1d5457a.jpg</filename>
+	<path>C:\Users\Sahista\Documents\College\Sem_3\LinguaVox\RealTimeObjectDetection\Tensorflow\workspace\images\umer_\help.083ad8f1-2917-11ec-963a-dc1ba1d5457a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>help</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>212</ymin>
+			<xmax>326</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>
