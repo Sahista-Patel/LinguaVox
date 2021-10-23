@@ -1,0 +1,26 @@
+<annotation>
+	<folder>umer_</folder>
+	<filename>you.643ffc05-2917-11ec-9421-dc1ba1d5457a.jpg</filename>
+	<path>C:\Users\Sahista\Documents\College\Sem_3\LinguaVox\RealTimeObjectDetection\Tensorflow\workspace\images\umer_\you.643ffc05-2917-11ec-9421-dc1ba1d5457a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>250</ymin>
+			<xmax>216</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

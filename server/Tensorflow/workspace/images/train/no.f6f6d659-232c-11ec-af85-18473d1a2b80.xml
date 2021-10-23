@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.f6f6d659-232c-11ec-af85-18473d1a2b80.jpg</filename>
+	<path>C:\Users\Sahista\Documents\College\Sem_3\LinguaVox\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.f6f6d659-232c-11ec-af85-18473d1a2b80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>293</ymin>
+			<xmax>599</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

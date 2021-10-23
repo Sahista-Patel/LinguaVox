@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.893906ce-232c-11ec-9cab-18473d1a2b80.jpg</filename>
+	<path>C:\Users\Sahista\Documents\College\Sem_3\LinguaVox\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.893906ce-232c-11ec-9cab-18473d1a2b80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>55</ymin>
+			<xmax>573</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>
